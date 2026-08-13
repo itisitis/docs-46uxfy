@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-2hsgia.openclaw-pro-max.com/sitemap.xml
